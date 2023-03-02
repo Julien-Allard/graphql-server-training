@@ -4,7 +4,7 @@ import * as dotenv from 'dotenv';
 dotenv.config();
 
 const { url } = await startStandaloneServer(apolloServer, {
-   listen: { port: parseInt(process.env.LOCALHOST) || 5000 },
+   listen: { port: parseInt(process.env.PORT) || 5000 },
 });
 
 console.log(`🚀 Server listening at: ${url}`);
