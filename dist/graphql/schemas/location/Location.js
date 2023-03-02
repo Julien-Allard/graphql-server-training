@@ -1,6 +1,6 @@
 export const Location = `
     type Location {
-      id: ID
+      id: Int
       name: String
       type: String
       dimension: String

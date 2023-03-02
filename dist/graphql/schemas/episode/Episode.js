@@ -1,6 +1,6 @@
 export const Episode = `
   type Episode {
-    id: ID
+    id: Int
     name: String
     air_date: String
     episode: String

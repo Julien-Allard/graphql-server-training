@@ -10,7 +10,7 @@ export const Character = `
   }
 
   type Character {
-    id: ID
+    id: Int
     name: String
     status: String
     species: String
