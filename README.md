@@ -9,9 +9,9 @@ I tried to manipulate GraphQL/Apollo the best I could to see what it had to offe
 
 ---
 
-| Scripts       | Description        |
-| ------------- | ------------------ |
-| `npm run dev` | starts the project |
+| Scripts     | Description        |
+| ----------- | ------------------ |
+| `npm start` | starts the project |
 
 If you cloned this repository don't forget to `npm install` first !
 

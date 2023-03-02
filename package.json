@@ -6,7 +6,7 @@
    "type": "module",
    "scripts": {
       "compile": "tsc",
-      "dev": "npm run compile && nodemon --exec npx ts-node --esm src/index.ts",
+      "start": "npm run compile && nodemon --exec npx ts-node --esm src/index.ts",
       "test": "echo \"Error: no test specified\" && exit 1"
    },
    "keywords": [],
