@@ -1,4 +1,4 @@
-#GraphQL server training
+# GraphQL server training
 
 ---
 
